@@ -1,0 +1,21 @@
+/**
+ * @name help me
+ * @author ForgottenAlt (Amnesia)#5470
+ * @version cac1
+ * @description I need help lmao
+ * @authorId 794327719185743882
+*/
+
+@import url('');
+
+/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
+
+
+
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
+
+   
