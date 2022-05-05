@@ -8,14 +8,14 @@
 
 @import url('');
 
-/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
 
 
 
 :root {
-  --background: #000700 !important;
-  --text-color: #4AEF98 !important;
-  --highlight: var(--text-color) !important;
+  --background: #8a2be2 !important;
+  --text-color: #000000 !important;
+  --high: #474747 !important;
+  --highlight: var(--high) !important;
 }
 
    
